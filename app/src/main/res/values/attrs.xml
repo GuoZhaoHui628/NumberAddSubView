@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="value" format="integer|reference" />
+    <attr name="minVal" format="integer|reference" />
+    <attr name="maxVal" format="integer|reference" />
+
+    <declare-styleable name="NumAddSubView">
+
+        <attr name="value" />
+        <attr name="minVal" />
+        <attr name="maxVal" />
+
+    </declare-styleable>
+    
+</resources>
